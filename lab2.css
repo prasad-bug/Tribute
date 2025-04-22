@@ -1,0 +1,26 @@
+img{
+ border-radius: 18px;
+ width: 200px;
+ margin-right: auto;
+    margin-left: auto;
+    display: block;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 5, 4);
+    font-family: 'Courier New',;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    color: rgb(0, 5, 4);
+    font-family: 'Courier New',;
+    font-size: 30px;
+}
+
+body{
+text-align: center;   
+align-items: center;
+align-self: auto;
+}
